@@ -178,6 +178,10 @@
     width: 800px;
     margin: 0 auto;
   }
+  img {
+    width: 100%;
+    height: auto;
+  }
   @media screen and (max-width: 768px) {
     .col-sm-3 img {
       width: 100%;
@@ -193,10 +197,6 @@
     }
     .navbar-brand {
       bottom: 10px;
-    }
-    img {
-      width: 100%;
-      height: auto;
     }
   }
   @media screen and (max-width: 480px) {
