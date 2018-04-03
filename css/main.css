@@ -178,6 +178,10 @@
     width: 800px;
     margin: 0 auto;
   }
+  .percent80 {
+    width: 80%;
+    margin: 0 auto;
+  }
   img {
     width: 80%;
     height: auto;
